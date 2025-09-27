@@ -1,0 +1,2 @@
+# myPack
+Learning go 
