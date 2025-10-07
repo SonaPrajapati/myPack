@@ -16,7 +16,7 @@ func main() {
 	// fmt.Println("Fibonacci Series:")
 
 	for i := 0; i < n; i++ {
-		Fib = append(Fib, i)
+		Fib = append(Fib, a)
 		a, b = b, a+b
 	}
 	fmt.Printf("Fibonacci Series: %d", Fib)
